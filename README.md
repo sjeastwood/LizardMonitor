@@ -48,12 +48,11 @@ Then how to make it accessible via Web.
 
 
 ### Future possibilities
-##### Water dispenser
-- [x] Solenoid valve for water. 
+- [x] Solenoid valve for water dispensor 
 - [ ] Pump
 - [ ] Manual control with hardware button
 - [ ] Dashboard software button press
-- [ ] Food dispensor
+- [ ] Food dispensor with a black tube and timed or manual shutter for crickets/worms
 
 
 ###### Sources
