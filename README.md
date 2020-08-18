@@ -35,16 +35,25 @@ Learn how to link it to a web page. Flask?
 Then how to make it accessible via Web.
 
 
-
-#### Water dispenser
-Solenoid valve for water. 
-Possible pump
-Manual control with a button or dashboard button press.
-
 ## Progress (0%)
-- [ ] Temperature Sensor
-- [ ] Humidity and Temperature Sensor
-- [ ] 
+- [ ] Temperature Sensor working
+- [ ] Humidity and Temperature Sensor working
+- [ ] Calibrate sensors
+- [ ] LED signal indicators
+- [ ] Assembly of sensors and cage placement
+- [ ] Camera test
+- [ ] Camera mount
+- [ ] Dashboard
+- [ ] Webpage 
+
+
+### Future possibilities
+##### Water dispenser
+- [x] Solenoid valve for water. 
+- [ ] Pump
+- [ ] Manual control with hardware button
+- [ ] Dashboard software button press
+- [ ] Food dispensor
 
 
 ###### Sources
