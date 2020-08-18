@@ -4,8 +4,8 @@
 
 #### Sensors Needed
 
-Temperature sensor for hot end - **18B20 Digital Temp Sensor Module**
-Temp and Humidity for cold end -  **DHT11 sensor**
+* Temperature sensor for hot end - **18B20 Digital Temp Sensor Module**
+* Temp and Humidity for cold end -  **DHT11 sensor**
 
 #### LED 
 
